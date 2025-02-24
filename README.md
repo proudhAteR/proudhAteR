@@ -22,9 +22,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=proudhAteR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=proudhAteR&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=proudhAteR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
