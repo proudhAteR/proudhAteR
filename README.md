@@ -1,7 +1,7 @@
 # 💫 About Me:
 <ul>
   <li>I'm currently studying at Cégep de Sorel-Tracy</li>
-  <li>I love to learn new things</li>
+  <li>I love learning new things</li>
 </ul>
 
 ## 🌐 Socials:
