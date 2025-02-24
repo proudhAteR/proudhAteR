@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm currently studying at Cégep de Sorel-Tracy
-I love to learn new things
+<p>I'm currently studying at Cégep de Sorel-Tracy</p>
+<p>I love to learn new things</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-boleku-mumbanza-0275342a3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Cboleku162004@gmail.ocm) 
