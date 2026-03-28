@@ -29,8 +29,4 @@ I love learning new technologies, building projects, and constantly pushing my l
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 
 
-## 📊 Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=proudhAteR&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
